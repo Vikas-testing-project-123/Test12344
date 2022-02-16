@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kockpit_studio
 This is only for the testing purpose of the kockpit studio app
 Requirements and Pre requists
@@ -11,3 +12,6 @@ Packages: Jsonpath, json, openpyxl, requests
 4. Then hit the API using the request method of requests package
 5. Check if the actual response is matched with the expected response in the excel sheet
 6. Write the status of the test case is pass or fail in the excel file
+=======
+# Test12344
+>>>>>>> Branch1
